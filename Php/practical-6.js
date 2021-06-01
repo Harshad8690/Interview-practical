@@ -1,5 +1,3 @@
-<?php
-
 function checkPalindrome(inputString){
 
     var temp = inputString.toLowerCase();
@@ -14,4 +12,3 @@ function checkPalindrome(inputString){
 }
 
 console.log(checkPalindrome("provide your string here"));
-?>
